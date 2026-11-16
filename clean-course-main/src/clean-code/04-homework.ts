@@ -1,4 +1,3 @@
-
 (() => {
 
     // 1. Resolver sin utilizar múltiples condicionales
